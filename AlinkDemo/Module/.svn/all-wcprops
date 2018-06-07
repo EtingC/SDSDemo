@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module
+END
+DevieceMoudleManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/DevieceMoudleManager.m
+END
+JsCallBackModelManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/JsCallBackModelManager.m
+END
+DeviceInfoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/DeviceInfoManager.m
+END
+SDSsqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/broadlink-nj/!svn/ver/21605/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/SDSsqlite.h
+END
+sdsUIVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/sdsUIVersion.h
+END
+SDSsqlite.m
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/broadlink-nj/!svn/ver/21605/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/SDSsqlite.m
+END
+sdsUIVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/sdsUIVersion.m
+END
+DevieceMoudleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/DevieceMoudleManager.h
+END
+JsCallBackModelManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/JsCallBackModelManager.h
+END
+DeviceInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/Module/DeviceInfoManager.h
+END

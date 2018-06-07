@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController
+END
+BaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/BaseViewController.h
+END
+UIControl+Custom.m
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/UIControl+Custom.m
+END
+NaviViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/NaviViewController.h
+END
+UIViewController+changeleftItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 251
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/UIViewController+changeleftItem.m
+END
+BaseTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/BaseTableViewCell.h
+END
+BaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/BaseViewController.m
+END
+CustomBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/CustomBtn.h
+END
+NaviViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/NaviViewController.m
+END
+BaseTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/BaseTableViewCell.m
+END
+CustomBtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/CustomBtn.m
+END
+UIControl+Custom.h
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/UIControl+Custom.h
+END
+UIViewController+changeleftItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 251
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/BaseViewController/UIViewController+changeleftItem.h
+END

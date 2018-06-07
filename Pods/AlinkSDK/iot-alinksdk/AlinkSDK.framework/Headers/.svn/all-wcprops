@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers
+END
+AlinkDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkDefine.h
+END
+AlinkLoginProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkLoginProtocol.h
+END
+AlinkSDKCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkSDKCore.h
+END
+AlinkRequestTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 246
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkRequestTask.h
+END
+AlinkAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkAccount.h
+END
+AlinkEnvConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkEnvConfig.h
+END
+AlinkResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkResponse.h
+END
+AlinkOpenSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkOpenSDK.h
+END
+NSError+AlinkUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/NSError+AlinkUtils.h
+END
+AlinkRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AlinkSDK/iot-alinksdk/AlinkSDK.framework/Headers/AlinkRequest.h
+END

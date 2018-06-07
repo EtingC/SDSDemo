@@ -1,0 +1,167 @@
+//
+//  DeviceTableViewCell.m
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/11/30.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#import "DeviceTableViewCell.h"
+#import "sdsUIVersion.h"
+@implementation DeviceTableViewCell
+
+- (void)awakeFromNib {
+    [super awakeFromNib];
+    // Initialization code
+}
+-(void)make:(id)sender{
+    for (DeviceFamilyInfo*Infomodel in [DeviceInfoManager sharedManager].deviceInfoArray){
+        if ([self.deviceFamilyModel.deviceInfo.did isEqualToString:Infomodel.deviceInfo.did]) {
+            
+            NSDictionary * dic = @{
+                                   @"act" : @"get",
+                                   @"did" : Infomodel.deviceInfo.did, //0000000000000000000034ea345553fe
+                                   
+                                   @"params" : @[],
+                                   @"vals" :   @[]
+                                   
+                                   };
+            NSString * json = [CommonUtil dictionaryToJson:dic];
+            dispatch_async(dispatch_get_global_queue(0, 0), ^{
+                
+                NSString * content = [[BLLet sharedLet].controller  dnaControl:Infomodel.deviceInfo.did subDevDid:nil dataStr:json command:@"dev_ctrl" scriptPath:nil];
+                NSLog(@"contentcontentcontentcontentcontentv%@",content);
+                NSDictionary * dic = [CommonUtil dictionaryWithJsonString:content];
+                NSString * status = [dic valueForKey:@"status"];
+                if ([status integerValue]==0) {
+                    dic = [dic valueForKey:@"data"];
+                    NSMutableArray * valsArr = [dic valueForKey:@"vals"];
+                    NSMutableArray * paramArr = [dic valueForKey:@"params"];
+                    NSMutableDictionary * contentDic = [[NSMutableDictionary alloc]init];
+                    for (int i = 0; i < paramArr.count; i++) { //遍历当前的状态类型  风干 烘干 优先（这俩互斥） 没有 就 杀菌 再没有 就显示无工作
+                        NSString * status = paramArr[i];
+                        NSString * valsStr = [[NSString alloc]init];
+                        NSArray * valarr =valsArr[i];
+                        NSDictionary*valsdic = valarr[0];
+                        valsStr = [valsdic valueForKey:@"val"];
+                        [contentDic setObject:valsStr forKey:status];
+                    }
+                    NSNumber * fenggan = [contentDic valueForKey:@"rack_airdrying"];
+                    NSNumber * honggan = [contentDic valueForKey:@"rack_drying"];
+                    NSNumber *shajun = [contentDic valueForKey:@"rack_disinfect"];
+                    dispatch_async(dispatch_get_main_queue(), ^{
+                        if ([fenggan intValue] == 1||[honggan intValue]==1) {
+                            if ([fenggan intValue] ==1 ) {
+                                self.StatusL.text = [NSString stringWithFormat:@"风干剩余时间 00:%@ min", [contentDic valueForKey:@"rack_airdryremtime"]] ;
+                            }else if([honggan intValue]==1){
+                                self.StatusL.text = [NSString stringWithFormat:@"烘干剩余时间 00:%@ min", [contentDic valueForKey:@"rack_dryremtime"]] ;
+                            }
+                        }else if([shajun intValue]==1){
+                            self.StatusL.text = [NSString stringWithFormat:@"杀菌剩余时间 00:%@ min", [contentDic valueForKey:@"rack_disinremtime"]] ;
+                        }else{
+                            self.StatusL.text = @"无工作";
+                        }
+                    });
+                }
+               
+            });
+        }
+    }
+    
+}
+-(void)setTheConfigue:(DeviceFamilyInfo *)model{
+    if (model) {
+        self.deviceFamilyModel = model;
+        if (model.moduleInfo.iconPath) {
+              [self.LogoImage sd_setImageWithURL:[NSURL URLWithString:model.moduleInfo.iconPath] placeholderImage:[UIImage imageNamed:DEFAULT_IMAGE]];
+        }else{
+            NSLog(@"model.moduleInfo.iconPath 出问题了");
+        }
+        self.NameL.text = model.moduleInfo.name;
+        [self performSelector:@selector(make:) withObject:nil afterDelay:3 inModes:@[NSRunLoopCommonModes]];
+        
+        for (DeviceFamilyInfo*Infomodel in [DeviceInfoManager sharedManager].deviceInfoArray){
+            if ([self.deviceFamilyModel.deviceInfo.did isEqualToString:Infomodel.deviceInfo.did]) {
+                
+                NSString *pid =Infomodel.deviceInfo.pid;
+                [[BLLet sharedLet].controller     downloadScript:pid completionHandler:^(BLDownloadResult * _Nonnull result) {
+                    NSLog(@"resultresultresultresult%@",result);
+                }];
+                NSString * SDKUIpath = [[BLLet sharedLet].controller queryUIPath:pid];
+                NSLog(@"UI文件包===============%@",SDKUIpath);
+                if ([[NSFileManager defaultManager] fileExistsAtPath:SDKUIpath]) {  //当文件存在时
+                    NSString *sql = [NSString stringWithFormat:@"select * from UIVERSION_TABLE Where PID ='%@'",pid];
+                    NSArray * sdsVersionArr = [SDSsqlite queryversion:sql];//查询数据库中版本号数据
+                    NSString * SDKUIVersion=nil;
+                    NSArray* UIversionArr = [[BLLet sharedLet].controller queryUIVersion:pid].versions;
+                    for (BLResourceVersion * version in UIversionArr) {
+                        SDKUIVersion = version.version;    //获取SDK的最新版本
+                    }
+                    if (sdsVersionArr) {
+                        sdsUIVersion* version = sdsVersionArr.firstObject;
+                        NSString * ver = version.version; //数据库中版本号
+                        
+                        if ([SDKUIVersion isEqualToString:ver]) {   //如果文件存在同时版本号是最新的 就打印下面语句
+                            NSLog(@"%@的UI文件包已经存在了,版本是最新",SDKUIpath);
+                        }else{//如果查询到当前版本 与 SDK的版本不相同，就下载最新的，SDK会覆盖掉本地的老版本UI包 同时 更新数据库 PID对应的UI包版本
+                            dispatch_async(dispatch_get_global_queue(0, 0), ^{
+                                
+                                [[BLLet sharedLet].controller downloadUI:pid completionHandler:^(BLDownloadResult * _Nonnull result) {
+                                    BOOL isUnzip = [SSZipArchive unzipFileAtPath:result.savePath toDestination:SDKUIpath];
+                                    if (isUnzip) {
+                                        NSLog(@"解压成功");
+                                        NSString *updateSql = [NSString stringWithFormat:@"update UIVERSION_TABLE set Version = '%@' where PID = '%@'",SDKUIVersion,pid];
+                                        BOOL ret = [SDSsqlite updateSdsUIVersion:updateSql];
+                                        if (ret) {
+                                            NSLog(@"更新版本号成功");
+                                        }else{
+                                            NSLog(@"更新版本号失败");
+                                            
+                                        }
+                                        
+                                    }else{
+                                        NSLog(@"解压失败");
+                                    }
+                                    NSLog(@"我是在MainCell中下载更新UI包的！%@",result.savePath);
+                                }];
+                            });
+                        }
+                    }
+                }else{  //文件不存在时 下载UI包 同时 向数据库 插入 PID 和当前UI包的版本号
+                    dispatch_async(dispatch_get_global_queue(0, 0), ^{
+                        
+                        [[BLLet sharedLet].controller downloadUI:pid completionHandler:^(BLDownloadResult * _Nonnull result) {
+                            
+                            BOOL isUnzip = [SSZipArchive unzipFileAtPath:result.savePath toDestination:SDKUIpath];
+                            if (isUnzip) {
+                                NSLog(@"解压成功");
+                                NSString * SDKUIVersion=nil;
+                                NSArray* UIversionArr = [[BLLet sharedLet].controller queryUIVersion:pid].versions;
+                                for (BLResourceVersion * version in UIversionArr) {
+                                    SDKUIVersion = version.version;
+                                }
+                                sdsUIVersion * versionModel = [sdsUIVersion sdsUIVersiontWith:SDKUIVersion pid:pid];
+                                BOOL isInsert = [SDSsqlite addSdsUIVersion:versionModel];
+                                if (isInsert) {
+                                    NSLog(@"插入成功");
+                                } else {
+                                    NSLog(@"插入失败");
+                                }
+                            }else{
+                                NSLog(@"解压失败");
+                            }
+                            NSLog(@"我是在MainCell中下载UI包的！%@",result.savePath);
+                        }];
+                    });
+                }
+            }
+        }
+    }
+}
+- (void)setSelected:(BOOL)selected animated:(BOOL)animated {
+    [super setSelected:selected animated:animated];
+
+    // Configure the view for the selected state
+}
+
+@end

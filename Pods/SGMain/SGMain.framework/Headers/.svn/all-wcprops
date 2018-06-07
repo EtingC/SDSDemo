@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers
+END
+ISecurityGuardOpenDynamicDataEncrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenDynamicDataEncrypt.h
+END
+ISecurityGuardOpenOpenSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenOpenSDK.h
+END
+ISecurityGuardOpenDataCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenDataCollection.h
+END
+ISecurityGuardOpenStaticKeyEncrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 247
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenStaticKeyEncrypt.h
+END
+ISecurityGuardOpenStaticDataEncrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenStaticDataEncrypt.h
+END
+ISecurityGuardOpenSecureSignature.h
+K 25
+svn:wc:ra_dav:version-url
+V 246
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenSecureSignature.h
+END
+ISecurityGuardOpenAtlasEncrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenAtlasEncrypt.h
+END
+ISecurityGuardOpenDynamicDataStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 247
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenDynamicDataStore.h
+END
+ISecurityGuardOpenStaticDataStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 246
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenStaticDataStore.h
+END
+ISecurityGuardOpenUMID.h
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenUMID.h
+END
+ISecurityGuardOpenSafeToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenSafeToken.h
+END
+ISecurityGuardOpenInitialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SGMain/SGMain.framework/Headers/ISecurityGuardOpenInitialize.h
+END

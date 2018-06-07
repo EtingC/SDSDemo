@@ -1,0 +1,36 @@
+//
+//  AddDeviceTableViewCell.m
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/11/7.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#import "AddDeviceTableViewCell.h"
+
+@implementation AddDeviceTableViewCell
+
+- (void)awakeFromNib {
+    [super awakeFromNib];
+    // Initialization code
+}
+-(void)setTheModel:(LKProductBriefModel *)model{
+    
+//    [self.logoimage sd_setImageWithURL:[NSURL URLWithString:model.icon] placeholderImage:[UIImage imageNamed:@"FY_背景图片"]];
+    if ([model.icon isEqualToString:@"X23-X30"]) {
+         self.logoimage.image = [UIImage imageNamed:model.icon];
+    }else{
+        [self.logoimage sd_setImageWithURL:[NSURL URLWithString:model.icon] placeholderImage:[UIImage imageNamed:@"FY_背景图片"]];
+    }
+   
+    self.productname.text = model.brandName;
+    self.productDescription.text = model.deviceName;
+    
+}
+- (void)setSelected:(BOOL)selected animated:(BOOL)animated {
+    [super setSelected:selected animated:animated];
+
+    // Configure the view for the selected state
+}
+
+@end

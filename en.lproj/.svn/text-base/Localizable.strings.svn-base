@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  AlinkDemo
+
+  Created by gubeidianzi on 2017/12/15.
+  Copyright © 2017年 aliyun. All rights reserved.
+*/
+"公司客服" = "Company customer service";
+"客服电话" = "Customer service telephone";
+"设备" = "deviceList";
+"场景" = "scene";
+"我的" = "myself";
+"设备列表" = "DeviceList";
+"版本升级" = "Version update" ;
+"关于晾霸" = "About Air heater";
+"账号设置" ="Account Settings";
+"当前版本" = "Current Version";
+"最新版本" = "Laster Version";
+"正在对比版本中" = "In  contrast version";
+"已是最新版本" = "It's latest version";
+"升级至最新版本" ="Upgrade to  latest version";
+"请求失败" ="request failed";
+"版本：" = "Version: ";
+"广东晾霸智能科技有限公司\n中国·广东省广州市黄浦区经济技术开发区环岭路13号" = "Guangdong air power intelligent technology co., LTD. \n China · guangdong province guangzhou huangpu district economic and technological development zone, huanling road no. 13.";
+"暂无设备,去添加" = "NoDevice,ToAddDevice";
+"版本:V" = "Ver:V";
+"昵称" = "NickName";
+"头像" = "Photo";
+"修改密码"="ChangePassword";
+"退出登录" ="Log out";
+"亲,请填写正确的名称哦" = "Please fill in the correct name.";
+"保存"= "Save";
+"取消" = "Cancle";
+"拍照" = "TakePhoto";
+"从手机相册选择" = "ChoosePhoneAlbum";
+"修改密码" = "ChangePassword";
+"新密码" ="NewPassword";
+"原密码" = "OldPassword";
+"请输入原密码" = "EnterOldPassword";
+"请输入新密码" ="EnterNewPassword";
+"请再次输入新密码" = "EnterNewPasswordAgain";
+"确定" = "Sure";
+"手机" = "Phone";
+"密码" = "Password";
+"忘记密码?" ="ForgetPassword?";
+"登 录" = "Login";
+"还没有账号?" ="NoAccount?";
+"注册" = "Register";
+"找回密码" ="FindPassword";
+"下一步" = "Next";
+"输入手机号码"="EnterPhoneNumber";
+"输入短信验证码" ="EnterMessageVertification";
+"短信验证码已发送至" = "SMSVerificationSent";
+"输入6-16位数字字符组合密码" = "Enter6-16-bitCharacterCombinationPassword.";
+"再输入一遍密码" = "EnterPasswordAgain";
+"获取验证码成功" = "GetVerificationCodeSuccess";
+"已重置密码，请返回登录" = "Reset password, please return login.";
+"注册" = "Register";
+"重新发送" = "Resend";
+"请填写验证码"="Pleasefillverification code";
+"请填写密码/再次输入的密码"="Pleasefillpassword/re-enter password";
+"两次密码输入不相同!"="Two password inputs are different!";
+"请输入名称或型号" = "Please enter name or model";
+"添加设备" = "AddDevice";
+"选择设备加入的WIFI网络" = "Select the WIFI network that the device joins";
+"更换WIFI" = "ChangeWIFI";
+
+"请输入WIFI密码" = "Please enter WIFI password";
+"正在添加设备,请耐心等待" = "Adding devices, please be patient.";
+"尽量使您的路由器,手机与设备相互靠近" = "Try to get your router, cell phone and device close to each other.";
+"正在添加" = "Adding";
+"配置完成" = "Configuration completion";
+"设备添加成功" = "Equipment added successfully";
+"再试一次" = "TryAgain";
+"请按以下步骤排查可能的问题\n\n1.确保您的设备已经按照开始时的提示,设置到配网状态;\n2.确保之前输入的WIFI账号密码无误;\n3.确保设备与家庭路由器的距离不要太远;\n4.您的路由器是否是指到了5GHz，可以进入路由器管理设置检查,确保是2.4HZ" = "Please follow the steps below to check the possible questions \n\n1. Make sure that your device has been set to the network state in accordance with the initial prompt; \n2. Ensure the password of the WIFI account entered before is correct; \n3. Make sure the device is not too far from the home router; \n4. Does your router refer to 5GHz, you can enter the router management setting check, and ensure it is 2.4hz";
+"设备配网失败" = "Failure of equipment distribution network";
+"属性" = "Property";
+"删除设备" = "DeleteDevice";
+"确定删除设备" = "Determine delete device";
+"设备图片" = "Device picture";
+"设备名称" = "Device name";
+"固件升级" = "Firmware Update";
+"请输入" = "please Enter";
+"已经是最新版本" ="It's the latest version.";
+"升级至最新版本" = "Upgrade to the latest version";
+"当前版本" = "Current version";
+"最新版本" = "Latest version";

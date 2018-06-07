@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public
+END
+CDVPluginResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPluginResult.h
+END
+CDVCommandDelegateImpl.m
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVCommandDelegateImpl.m
+END
+CDVUserAgentUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVUserAgentUtil.m
+END
+CDVPluginResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPluginResult.m
+END
+CDVPlugin+Resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPlugin+Resources.h
+END
+CDVPlugin+Resources.m
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPlugin+Resources.m
+END
+CDVCommandDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVCommandDelegate.h
+END
+CDVAvailability.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVAvailability.h
+END
+NSMutableArray+QueueAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.h
+END
+CDVViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVViewController.h
+END
+NSMutableArray+QueueAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.m
+END
+CDVWebViewEngineProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVWebViewEngineProtocol.h
+END
+CDVTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVTimer.h
+END
+CDVConfigParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVConfigParser.h
+END
+CDVViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVViewController.m
+END
+CDVCommandQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVCommandQueue.h
+END
+NSDictionary+CordovaPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.h
+END
+CDVTimer.m
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVTimer.m
+END
+CDVConfigParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVConfigParser.m
+END
+CDVCommandQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVCommandQueue.m
+END
+NSDictionary+CordovaPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.m
+END
+CDVAvailabilityDeprecated.h
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVAvailabilityDeprecated.h
+END
+CDVPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPlugin.h
+END
+CDVPlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVPlugin.m
+END
+CDVAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVAppDelegate.h
+END
+CDVWhitelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVWhitelist.h
+END
+CDV.h
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDV.h
+END
+CDVAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVAppDelegate.m
+END
+CDVInvokedUrlCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVInvokedUrlCommand.h
+END
+CDVWhitelist.m
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVWhitelist.m
+END
+CDVURLProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVURLProtocol.h
+END
+CDVScreenOrientationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVScreenOrientationDelegate.h
+END
+CDVInvokedUrlCommand.m
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVInvokedUrlCommand.m
+END
+CDVURLProtocol.m
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVURLProtocol.m
+END
+CDVUserAgentUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVUserAgentUtil.h
+END
+CDVCommandDelegateImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/CordovaLib/Classes/Public/CDVCommandDelegateImpl.h
+END

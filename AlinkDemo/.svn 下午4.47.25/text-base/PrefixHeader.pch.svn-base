@@ -1,0 +1,127 @@
+//
+//  PrefixHeader.pch
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/10/30.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <MJExtension.h>
+#import "UsingHUD.h"
+#import <SDWebImageManager.h>
+ #import "UIView+Extension.h"
+#import "CommonUtil.h"
+#import "ZAlertViewManager.h"
+#import "DeviceInfoManager.h"
+#import "UIImageView+WebCache.h"
+#import "DevieceMoudleManager.h"
+#import "JsCallBackModelManager.h"
+#import "UserInfoManager.h"
+#import "BLLet.h"
+#import "UIButton+Layer.h"
+#import "NetworkTool.h"
+#import "AppDelegate.h"
+#import <AlinkDeviceCenter/AlinkDeviceCenter.h>
+#import <AlinkSDK/AlinkDefine.h>
+#import <AlinkSDK/AlinkEnvConfig.h>
+#import <AlinkSDK/NSError+AlinkUtils.h>
+#import <AlinkSDK/AlinkRequest.h>
+#import <AlinkSDK/AlinkResponse.h>
+#import <AlinkSDK/AlinkRequestTask.h>
+#import <AlinkSDK/AlinkLoginProtocol.h>
+#import <AlinkSDK/AlinkAccount.h>
+#import <AlinkSDK/AlinkSDKCore.h>
+#import <TBJSONModel/TBJSONModel.h>
+#import <SSZipArchive.h>
+#import "SDSsqlite.h"
+#import "LiangBaDevice.h"
+#import <Masonry.h>
+#import "SDSFamliyManager.h"
+#import "BLDeviceService.h"
+#import "NaviViewController.h"
+#import "UIViewController+changeleftItem.h"
+#define BL_H5_NAVI                                  @"h5Navi"
+#define DNAKIT_CORVODA_JS_FILE                      @"cordova.js"
+#define DNAKIT_CORVODA_PLUGIN_JS_FILE               @"cordova_plugins.js"
+#define DNAKIT_DEFAULTH5PAGE_NAME                   @"app.html"
+
+#define BLLocalizedString(a, b)                  NSLocalizedString((a), (b))
+
+#define CustomLocalizedString(key, comment) \
+[[NSBundle bundleWithPath:[[NSBundle mainBundle] pathForResource:[NSString stringWithFormat:@"%@",[[NSUserDefaults standardUserDefaults] objectForKey:@"appLanguage"]] ofType:@"lproj"]] localizedStringForKey:(key) value:@"" table:nil]
+
+#ifdef DEBUG
+
+#define NSLog(...) NSLog(@"%s 第%d行 \n %@\n\n",__func__,__LINE__,[NSString stringWithFormat:__VA_ARGS__])
+
+#else
+
+#define NSLog(...)
+
+#endif
+
+
+
+
+#define  CLIENT_SECRET @"f7d604e76394e3a4e69c99a76f09b65d"
+#define SDK_LICENSE             @"j/Q+pn9Z6gKfTPb9mEjqqGLMFuV2GnSsWlyjHSlgp7xDt/iQp5t6sAd+nR1dX4lKWNJMWQAAAABy2gTjMldR6P21wqsYFnr7qFW2xN5RQ+AOoLDC2AAl6L7zZXYzCUkY/BJEFsctdOM7OjNkvAbesoTfN0qwXesJGXM8IOhyUSnG6u3qHvnULAAAAAA="
+//20170626
+//#define POWER_LID                 @"8ff43ea67f59ea029f4cf6fd9848eaa8"
+#define POWER_LID                @"d0a0d1c5372607ae497015744ba73041"
+
+#define LiangBaClientID  @"0657c5f338ff5a06707126ef69ad7647"
+#define LiangBaredirectUri  @"http://localhost"
+#define SDSClientID  @"2a45b8562ef9c6f3e23643a4fe15281b"
+#define SDSredirectUri @"https%3a%2f%2f797bea98e0a8cdf1291b200906497984oauth.ibroadlink.com&mode=app"
+
+#define ERROR_MESSAGE @"com.alamofire.serialization.response.error.data"
+#define DEFAULT_IMAGE  @"FY_背景图片"
+#define RGBA(r,g,b,a) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:a]
+#define rightvc   [[RightViewController alloc]init];
+#define RGB(r,g,b) RGBA(r,g,b,1.0f)
+#define CACHE_PATH    NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES).firstObject
+#define BLLetAccount [BLLet sharedLet].account
+#define DATACache [NSUserDefaults standardUserDefaults]
+#define DEVICEMoudleManger [DevieceMoudleManager  shareManager]
+#define SCREEN_WIDTH ([[UIScreen mainScreen] bounds].size.width)
+#define UIControlStateNormal UIControlStateNormal
+#define SCREEN_HEIGHT ([[UIScreen mainScreen] bounds].size.height)
+#define WeakSelf __weak typeof(self) weakSelf = self;
+#define Gray_Color  RGB(236, 234, 243)
+#define Device_Ver   [[UIDevice currentDevice] systemVersion]
+#define FamliyNAME @"*#com_lbest_rm_sfgxh#*"
+#define ios9_Last   [[[UIDevice currentDevice] systemVersion] doubleValue] >=9.0
+#define BL_GET_FIRMWARE_VERSION_FROM_SRV        @"https://fwversions.ibroadlink.com/getfwversion?devicetype="
+//判断设备类型
+#define iPhone4 ([UIScreen mainScreen].bounds.size.height == 480)
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+#define iPhone6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? (CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size)) : NO)
+#define iPhone6plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? (CGSizeEqualToSize(CGSizeMake(1125, 2001), [[UIScreen mainScreen] currentMode].size) || CGSizeEqualToSize(CGSizeMake(1242, 2208), [[UIScreen mainScreen] currentMode].size)) : NO)
+
+#define ISLOGIN  @"ISLOGIN"
+#define DEVICETOKEN  @"DEVICETOKEN"
+#define REFRESHTOKEN  @"REFRESHTOKEN"
+#define NICKNAME  @"NICKNAME"
+#define ICONURL  @"ICONURL"
+#define ACCOUNT  @"ACCOUNT"
+#define SESSION  @"SESSION"
+#define FAMILYID  @"FAMILYID"
+#define FAMILYVERSION  @"FAMILYVERSION"
+#define USERID  @"USERID"
+#define PASSWORD  @"PASSWORD"
+
+
+
+
+
+
+
+
+
+
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let
+END
+BLPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPicker.h
+END
+BLFirmwareVersionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFirmwareVersionResult.h
+END
+BLFamilyConfigedDevicesResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyConfigedDevicesResult.h
+END
+BLSubdevBaseResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLSubdevBaseResult.h
+END
+BLFamilyBaseInfoListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyBaseInfoListResult.h
+END
+BLFamilyMemberInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyMemberInfo.h
+END
+BLFamilyController.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyController.h
+END
+BLAPConfigResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLAPConfigResult.h
+END
+BLRoomInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLRoomInfo.h
+END
+BLFamilyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyInfo.h
+END
+BLeAirNetWorkDataParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLeAirNetWorkDataParser.h
+END
+BLFamilyInvitedQrcodeGetResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyInvitedQrcodeGetResult.h
+END
+BLModuleInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLModuleInfo.h
+END
+BLPrivateDataResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPrivateDataResult.h
+END
+BLJSControlEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLJSControlEngine.h
+END
+BLDeviceTimeResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDeviceTimeResult.h
+END
+BLPrivateDataIdResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPrivateDataIdResult.h
+END
+BLOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLOAuth.h
+END
+BLDNADevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDNADevice.h
+END
+BLModuleControlResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLModuleControlResult.h
+END
+BLProfileStringResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLProfileStringResult.h
+END
+BLFamilyAllInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyAllInfo.h
+END
+BLFamilyIdListGetResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyIdListGetResult.h
+END
+BLBindDeviceResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLBindDeviceResult.h
+END
+BLGetAPListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLGetAPListResult.h
+END
+BLAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLAccount.h
+END
+BLUpdateDeviceResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLUpdateDeviceResult.h
+END
+BLIRCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLIRCode.h
+END
+BLDNAControllerResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDNAControllerResult.h
+END
+BLDownloadResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDownloadResult.h
+END
+BLLoginResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLLoginResult.h
+END
+BLManageRoomsResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLManageRoomsResult.h
+END
+BLConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLConstants.h
+END
+BLFamilyDeviceInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyDeviceInfo.h
+END
+BLIRCodeInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLIRCodeInfoResult.h
+END
+BLController.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLController.h
+END
+BLSubDevListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLSubDevListResult.h
+END
+BLDeviceConfigResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDeviceConfigResult.h
+END
+BLStdData.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLStdData.h
+END
+BLAllFamilyInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLAllFamilyInfoResult.h
+END
+BLGetUserInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLGetUserInfoResult.h
+END
+BLFamilyElectricityInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyElectricityInfo.h
+END
+BLIRCodeDataResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLIRCodeDataResult.h
+END
+BLGetUserPhoneAndEmailResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLGetUserPhoneAndEmailResult.h
+END
+BLS1NetWorkDataParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLS1NetWorkDataParser.h
+END
+BLPassthroughResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPassthroughResult.h
+END
+BLBaseResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLBaseResult.h
+END
+BLDefineRoomTypesResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLDefineRoomTypesResult.h
+END
+BLOauthResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLOauthResult.h
+END
+BLQueryResourceVersionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLQueryResourceVersionResult.h
+END
+BLLet.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLLet.h
+END
+BLFamilyMemberInfoGetResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyMemberInfoGetResult.h
+END
+BLConfigParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLConfigParam.h
+END
+BLQueryTaskResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLQueryTaskResult.h
+END
+BLBaseBodyResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLBaseBodyResult.h
+END
+BLModuleIncludeDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLModuleIncludeDev.h
+END
+BLStdControlResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLStdControlResult.h
+END
+BLPairResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPairResult.h
+END
+BLTaskDataResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLTaskDataResult.h
+END
+BLFamilyInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyInfoResult.h
+END
+BLFamilyElectricityInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyElectricityInfoResult.h
+END
+BLModifyUserIconResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLModifyUserIconResult.h
+END
+BLQueryIRCodeParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLQueryIRCodeParams.h
+END
+BLSubDevAddResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLSubDevAddResult.h
+END
+BLPrivateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLPrivateData.h
+END
+BLFamilyInvitedQrcodePostResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/appSDK/appSDK/include/Let/BLFamilyInvitedQrcodePostResult.h
+END

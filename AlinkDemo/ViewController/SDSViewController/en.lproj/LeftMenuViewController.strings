@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "尽量使您的路由器、手机与设备相互靠近"; ObjectID = "1QF-tp-9vX"; */
+"1QF-tp-9vX.text" = "尽量使您的路由器、手机与设备相互靠近";
+
+/* Class = "UITextField"; placeholder = "请输入新密码"; ObjectID = "1cC-An-rsR"; */
+"1cC-An-rsR.placeholder" = "请输入新密码";
+
+/* Class = "UILabel"; text = "设备配置完成，等待激活"; ObjectID = "1g5-w3-zwk"; */
+"1g5-w3-zwk.text" = "设备配置完成，等待激活";
+
+/* Class = "UILabel"; text = "请任意操作一下设备完成激活绑定"; ObjectID = "4vk-RU-Kvr"; */
+"4vk-RU-Kvr.text" = "请任意操作一下设备完成激活绑定";
+
+/* Class = "UILabel"; text = " "; ObjectID = "5sq-aP-EOu"; */
+"5sq-aP-EOu.text" = " ";
+
+/* Class = "UILabel"; text = "4/4"; ObjectID = "7Os-4N-Ubt"; */
+"7Os-4N-Ubt.text" = "4/4";
+
+/* Class = "UIButton"; normalTitle = "更换WiFi"; ObjectID = "8IH-Q8-of9"; */
+"8IH-Q8-of9.normalTitle" = "ChangeWiFi";
+
+/* Class = "UILabel"; text = "配置成功"; ObjectID = "A72-kU-zuk"; */
+"A72-kU-zuk.text" = "配置成功";
+
+/* Class = "UILabel"; text = "2/4"; ObjectID = "BLa-Ee-0Su"; */
+"BLa-Ee-0Su.text" = "2/4";
+
+/* Class = "UILabel"; text = "1/4"; ObjectID = "BZt-pe-acC"; */
+"BZt-pe-acC.text" = "1/4";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "CZj-6T-AGr"; */
+"CZj-6T-AGr.text" = "新密码";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "ETK-X7-igk"; */
+"ETK-X7-igk.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "原密码"; ObjectID = "G3m-Ob-gXO"; */
+"G3m-Ob-gXO.text" = "原密码";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "I5i-Tk-1oU"; */
+"I5i-Tk-1oU.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "昵称"; ObjectID = "MYZ-dl-0Si"; */
+"MYZ-dl-0Si.text" = "昵称";
+
+/* Class = "UILabel"; text = "4/4"; ObjectID = "OOI-Kx-YbD"; */
+"OOI-Kx-YbD.text" = "4/4";
+
+/* Class = "UILabel"; text = " 版本升级"; ObjectID = "QBG-kH-U4O"; */
+"QBG-kH-U4O.text" = " 版本升级";
+
+/* Class = "UILabel"; text = "正在添加设备，请耐心等待"; ObjectID = "QRe-uk-PcN"; */
+"QRe-uk-PcN.text" = "正在添加设备，请耐心等待";
+
+/* Class = "UILabel"; text = "设备配网失败"; ObjectID = "Ubg-49-d8s"; */
+"Ubg-49-d8s.text" = "设备配网失败";
+
+/* Class = "UIButton"; normalTitle = "配置完成"; ObjectID = "Vr3-xI-cOo"; */
+"Vr3-xI-cOo.normalTitle" = "配置完成";
+
+/* Class = "UIButton"; normalTitle = "正在添加"; ObjectID = "XRg-kz-t8P"; */
+"XRg-kz-t8P.normalTitle" = "正在添加";
+
+/* Class = "UITextField"; placeholder = "请输入原密码"; ObjectID = "Z8B-G4-RdZ"; */
+"Z8B-G4-RdZ.placeholder" = "请输入原密码";
+
+/* Class = "UILabel"; text = "18012345678"; ObjectID = "bG4-GS-3rb"; */
+"bG4-GS-3rb.text" = "18012345678";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "bZm-td-WKU"; */
+"bZm-td-WKU.normalTitle" = "退出登录";
+
+/* Class = "UILabel"; text = "4/4"; ObjectID = "bsG-63-4q6"; */
+"bsG-63-4q6.text" = "4/4";
+
+/* Class = "UITextField"; placeholder = "请输入WIFI密码"; ObjectID = "c21-4F-ItO"; */
+"c21-4F-ItO.placeholder" = "请输入WIFI密码";
+
+/* Class = "UIButton"; normalTitle = "再试一次"; ObjectID = "cnx-C5-wce"; */
+"cnx-C5-wce.normalTitle" = "再试一次";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "dAJ-Pq-YAq"; */
+"dAJ-Pq-YAq.text" = "头像";
+
+/* Class = "UILabel"; text = "18012346678"; ObjectID = "duD-hw-PXo"; */
+"duD-hw-PXo.text" = "18012346678";
+
+/* Class = "UILabel"; text = "3/4"; ObjectID = "e3m-gY-S9G"; */
+"e3m-gY-S9G.text" = "3/4";
+
+/* Class = "UIButton"; normalTitle = "再试一次"; ObjectID = "edb-wm-h4k"; */
+"edb-wm-h4k.normalTitle" = "再试一次";
+
+/* Class = "UITextField"; placeholder = "请再次输入新密码"; ObjectID = "frA-bN-Mpw"; */
+"frA-bN-Mpw.placeholder" = "请再次输入新密码";
+
+/* Class = "UILabel"; text = "设备激活失败"; ObjectID = "ftb-nM-hBa"; */
+"ftb-nM-hBa.text" = "设备激活失败";
+
+/* Class = "UILabel"; text = "选择设备加入的WIFI网络"; ObjectID = "giV-gh-4u0"; */
+"giV-gh-4u0.text" = "选择设备加入的WIFI网络";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "gle-iZ-NVc"; */
+"gle-iZ-NVc.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "pdP-Bc-yFT"; */
+"pdP-Bc-yFT.text" = "修改密码";
+
+/* Class = "UILabel"; text = " 基本设置"; ObjectID = "qXz-xX-pch"; */
+"qXz-xX-pch.text" = " 基本设置";
+
+/* Class = "UILabel"; text = "4/4"; ObjectID = "sfW-zC-AyL"; */
+"sfW-zC-AyL.text" = "4/4";
+
+/* Class = "UIButton"; normalTitle = "正在激活"; ObjectID = "uIn-fU-hfb"; */
+"uIn-fU-hfb.normalTitle" = "正在激活";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z2B-xJ-We2"; */
+"z2B-xJ-We2.text" = "Label";

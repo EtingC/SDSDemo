@@ -1,0 +1,59 @@
+//
+//  LiangBaDevice.m
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/12/4.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#import "LiangBaDevice.h"
+@interface LiangBaDevice ()
+@property (strong, nonatomic, readwrite) NSMutableArray<BLDNADevice *> *deviceArray;
+    
+@end
+@implementation LiangBaDevice
++ (LiangBaDevice *)sharedInstance
+{
+    static LiangBaDevice *sharedInstance = nil;
+    
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+       
+        sharedInstance = [[LiangBaDevice alloc]init];
+    });
+    
+    return sharedInstance;
+}
+-(NSMutableArray *)XINGHAOArr{
+    if (_XINGHAOArr == nil) {
+        _XINGHAOArr = [[NSMutableArray alloc] init];
+    }
+    
+    return _XINGHAOArr;
+    
+}
+- (NSMutableArray<BLDNADevice *> *)deviceArray
+{
+    if (_deviceArray == nil) {
+        _deviceArray = [[NSMutableArray alloc] init];
+    }
+    
+    return _deviceArray;
+}
+- (void)addDeviceToDeviceArray:(BLDNADevice *)device{
+    [self.deviceArray addObject:device];
+}
+
+- (BOOL)deviceHasAddedInDeviceArray:(BLDNADevice *)device
+{
+    
+    for (BLDNADevice * Device  in self.deviceArray) {
+        
+        if ([Device.did isEqualToString:device.did]) {
+            return YES;
+        }
+    }
+    
+    return NO;
+}
+@end

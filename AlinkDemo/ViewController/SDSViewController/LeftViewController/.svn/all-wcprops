@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController
+END
+SearchDeviceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 264
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/SearchDeviceViewController.m
+END
+BianJiViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 258
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/BianJiViewController.h
+END
+BanBenShengJiViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 265
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/BanBenShengJiViewController.h
+END
+LeftMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/LeftMenuViewController.h
+END
+BianJiViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 258
+/svn/broadlink-nj/!svn/ver/21566/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/BianJiViewController.m
+END
+BanBenShengJiViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 265
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/BanBenShengJiViewController.m
+END
+PassWordViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/PassWordViewController.h
+END
+LeftMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/LeftMenuViewController.m
+END
+SearchDeviceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 264
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/SearchDeviceViewController.h
+END
+PassWordViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/svn/broadlink-nj/!svn/ver/21566/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/LeftViewController/PassWordViewController.m
+END

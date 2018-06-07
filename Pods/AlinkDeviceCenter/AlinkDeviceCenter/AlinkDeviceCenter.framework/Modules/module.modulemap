@@ -1,0 +1,6 @@
+framework module AlinkDeviceCenter {
+  umbrella header "AlinkDeviceCenter.h"
+
+  export *
+  module * { export * }
+}

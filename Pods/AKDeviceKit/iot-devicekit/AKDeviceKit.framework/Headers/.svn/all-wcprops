@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers
+END
+LKPDeviceAuthUdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/LKPDeviceAuthUdpSocket.h
+END
+LKPDeviceBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 253
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/LKPDeviceBrowser.h
+END
+AKPHotspotService.h
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPHotspotService.h
+END
+AKPWifiConfigureService.h
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPWifiConfigureService.h
+END
+AKPApSetupService.h
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPApSetupService.h
+END
+AKPDeviceAuthModels.h
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPDeviceAuthModels.h
+END
+AliLinkForNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 253
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AliLinkForNative.h
+END
+LKUtilsDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/LKUtilsDefine.h
+END
+AKDeviceKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKDeviceKit.h
+END
+AKPLinkedRouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 252
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPLinkedRouter.h
+END
+AKDeviceKitLogUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKDeviceKitLogUtils.h
+END
+AKPAccessPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 251
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKPAccessPoint.h
+END
+AKAccessibleDeviceItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKDeviceKit/iot-devicekit/AKDeviceKit.framework/Headers/AKAccessibleDeviceItem.h
+END

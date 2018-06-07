@@ -1,0 +1,35 @@
+//
+//  DeviceFamilyInfo.m
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/12/8.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#import "DeviceFamilyInfo.h"
+#import "BLModuleIncludeDev.h"
+@implementation DeviceFamilyInfo
+
+//-(BLModuleInfo *)moduleInfo{
+//    BLModuleInfo * moduleif = [[BLModuleInfo alloc]init];
+//    for (BLModuleInfo * model in self.moduleInfoArr) {
+//        NSArray * BLModuleIncludeDevArr = model.moduleDevs;
+//        if (BLModuleIncludeDevArr) {
+//            BLModuleIncludeDev * devModel =BLModuleIncludeDevArr.firstObject;
+//            if ([devModel.did isEqualToString:self.deviceInfo.did]) {
+//                moduleif =model;
+//            }
+//        }else{
+//
+//            NSLog(@"BLModuleIncludeDevArr 数组不存在数据");
+//        }
+//    }
+//    return moduleif;
+//}
+-(NSArray *)moduleInfoArr{
+    if (!_moduleInfoArr) {
+        _moduleInfoArr = [[NSArray alloc]init];
+    }
+    return _moduleInfoArr;
+}
+@end

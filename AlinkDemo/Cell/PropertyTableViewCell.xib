@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="55" id="KGk-i7-Jjw" customClass="PropertyTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="85"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="287" height="84.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="设备图片" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ld9-sX-phR">
+                        <rect key="frame" x="15" y="19" width="109" height="47"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="109" id="eaP-Ew-2xW"/>
+                            <constraint firstAttribute="height" constant="47" id="zuY-59-q7m"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="FY_背景图片" translatesAutoresizingMaskIntoConstraints="NO" id="Ni5-oR-FHp">
+                        <rect key="frame" x="221" y="10" width="66" height="66"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="66" id="04u-wc-GEK"/>
+                            <constraint firstAttribute="width" secondItem="Ni5-oR-FHp" secondAttribute="height" multiplier="35:35" id="Fzx-DH-Aql"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Ni5-oR-FHp" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="13x-6W-rjL"/>
+                    <constraint firstAttribute="bottom" secondItem="ld9-sX-phR" secondAttribute="bottom" constant="18.5" id="1Hf-9P-hFv"/>
+                    <constraint firstItem="ld9-sX-phR" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="OaV-Bf-6lF"/>
+                    <constraint firstItem="ld9-sX-phR" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="19" id="p5K-6T-2UH"/>
+                </constraints>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Ni5-oR-FHp" secondAttribute="trailing" constant="33" id="NP1-25-38S"/>
+            </constraints>
+            <connections>
+                <outlet property="imageV" destination="Ni5-oR-FHp" id="fbg-pt-BIa"/>
+                <outlet property="name" destination="ld9-sX-phR" id="gmN-mS-2Ji"/>
+            </connections>
+            <point key="canvasLocation" x="-360" y="38"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="FY_背景图片" width="200" height="200"/>
+    </resources>
+</document>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="NoTimeView">
+            <rect key="frame" x="0.0" y="0.0" width="252" height="275"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="还没有添加定时" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xAZ-TI-MbG">
+                    <rect key="frame" x="52" y="173" width="156" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="156" id="LGQ-Yq-lh0"/>
+                        <constraint firstAttribute="height" constant="21" id="heJ-Vw-dBh"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.78846639394760132" green="0.79978376626968384" blue="0.7779044508934021" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jzm-67-Tav">
+                    <rect key="frame" x="29" y="224" width="195" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="2lu-64-zpq"/>
+                        <constraint firstAttribute="width" constant="195" id="T6n-n6-hDw"/>
+                    </constraints>
+                    <state key="normal" title="添加定时" backgroundImage="添加定时">
+                        <color key="titleColor" red="0.94187587500000003" green="0.93564087149999997" blue="0.96244972939999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="定时为空" translatesAutoresizingMaskIntoConstraints="NO" id="eza-Hq-3t8">
+                    <rect key="frame" x="41" y="20" width="171" height="145"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="171" id="MMv-cl-bV2"/>
+                        <constraint firstAttribute="height" constant="145" id="xWh-bn-anc"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="eza-Hq-3t8" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="20" id="3aU-md-LcZ"/>
+                <constraint firstItem="jzm-67-Tav" firstAttribute="top" secondItem="xAZ-TI-MbG" secondAttribute="bottom" constant="30" id="FKl-qH-plj"/>
+                <constraint firstItem="jzm-67-Tav" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="29" id="TpX-T1-o2e"/>
+                <constraint firstItem="xAZ-TI-MbG" firstAttribute="top" secondItem="eza-Hq-3t8" secondAttribute="bottom" constant="8" id="dQQ-fS-AJE"/>
+                <constraint firstItem="eza-Hq-3t8" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="41" id="sER-Tt-N4V"/>
+                <constraint firstItem="xAZ-TI-MbG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="52" id="sjx-vn-erI"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="AddtimeBnt" destination="jzm-67-Tav" id="d5s-tt-eqh"/>
+            </connections>
+            <point key="canvasLocation" x="-191" y="284.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="定时为空" width="180" height="156"/>
+        <image name="添加定时" width="198" height="70"/>
+    </resources>
+</document>

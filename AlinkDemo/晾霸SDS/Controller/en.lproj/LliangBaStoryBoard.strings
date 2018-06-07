@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "短信验证码已发送至:"; ObjectID = "5NC-ZZ-2yl"; */
+"5NC-ZZ-2yl.text" = "短信验证码已发送至:";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "DTc-j7-N1M"; */
+"DTc-j7-N1M.normalTitle" = "注册";
+
+/* Class = "UITextField"; placeholder = "再输入一遍密码"; ObjectID = "WCV-Ue-u1J"; */
+"WCV-Ue-u1J.placeholder" = "再输入一遍密码";
+
+/* Class = "UIButton"; normalTitle = "重新发送"; ObjectID = "WNW-Iw-aat"; */
+"WNW-Iw-aat.normalTitle" = "重新发送";
+
+/* Class = "UITextField"; placeholder = "手机"; ObjectID = "WZI-gE-LcB"; */
+"WZI-gE-LcB.placeholder" = "手机";
+
+/* Class = "UITextField"; placeholder = "输入短信验证码"; ObjectID = "Xji-0j-xeg"; */
+"Xji-0j-xeg.placeholder" = "输入短信验证码";
+
+/* Class = "UITextField"; placeholder = "输入6-16位数字字符组合密码"; ObjectID = "a2H-ZJ-p0j"; */
+"a2H-ZJ-p0j.placeholder" = "输入6-16位数字字符组合密码";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "fWD-sE-H8J"; */
+"fWD-sE-H8J.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "还没有账号？"; ObjectID = "pKU-6G-yAh"; */
+"pKU-6G-yAh.text" = "还没有账号？";
+
+/* Class = "UIButton"; normalTitle = "忘记密码？"; ObjectID = "sSz-8S-Mbg"; */
+"sSz-8S-Mbg.normalTitle" = "忘记密码？";
+
+/* Class = "UIButton"; normalTitle = "登  录"; ObjectID = "zV1-nZ-sbC"; */
+"zV1-nZ-sbC.normalTitle" = "登  录";
+
+/* Class = "UIButton"; normalTitle = "注 册"; ObjectID = "ztD-zR-zjZ"; */
+"ztD-zR-zjZ.normalTitle" = "注 册";

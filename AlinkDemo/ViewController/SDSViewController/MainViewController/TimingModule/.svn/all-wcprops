@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule
+END
+CycleSetTimeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 277
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/CycleSetTimeViewController.h
+END
+LXKDatePickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 268
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/LXKDatePickerView.m
+END
+AddTimeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 272
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/AddTimeViewController.m
+END
+MainTImeSelectedPushViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 285
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/MainTImeSelectedPushViewController.h
+END
+SetTimeActionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 278
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/SetTimeActionViewController.m
+END
+TimeManagerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 276
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/TimeManagerViewController.m
+END
+CycleSetTimeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 277
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/CycleSetTimeViewController.m
+END
+MainTImeSelectedPushViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 285
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/MainTImeSelectedPushViewController.m
+END
+SelectedsArr.h
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/SelectedsArr.h
+END
+LXKDatePickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 268
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/LXKDatePickerView.h
+END
+SelectedsArr.m
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/SelectedsArr.m
+END
+AddTimeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 272
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/AddTimeViewController.h
+END
+SetTimeActionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 278
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/SetTimeActionViewController.h
+END
+TimeManagerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 276
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/AlinkDemo/ViewController/SDSViewController/MainViewController/TimingModule/TimeManagerViewController.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers
+END
+TBJSONModelError.h
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/TBJSONModelError.h
+END
+NSArray+TBJSONModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 262
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/NSArray+TBJSONModel.h
+END
+TBJSONModelKeyMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/TBJSONModelKeyMapper.h
+END
+TBJSONModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/TBJSONModel.h
+END
+NSDictionary+TBJSONModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 267
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/NSDictionary+TBJSONModel.h
+END
+TBJSONModelProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 262
+/svn/broadlink-nj/!svn/ver/21527/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/AKTBJSONModel/iot-sdk-jsonmodel/TBJSONModel.framework/Headers/TBJSONModelProperty.h
+END

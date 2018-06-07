@@ -1,0 +1,148 @@
+//
+//  DeviceSuccessViewController.m
+//  AlinkDemo
+//
+//  Created by gubeidianzi on 2017/11/10.
+//  Copyright © 2017年 aliyun. All rights reserved.
+//
+
+#import "DeviceSuccessViewController.h"
+#import "RightViewController.h"
+#import "sdsUIVersion.h"
+#import "BLDeviceService.h"
+#import "DeviceViewController.h"
+@interface DeviceSuccessViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *MidL;
+
+@property (weak, nonatomic) IBOutlet UIButton *nextBtn;
+
+@end
+
+@implementation DeviceSuccessViewController
+-(void)viewWillDisappear:(BOOL)animated{
+    [super viewWillDisappear:animated   ];
+    self.tabBarController.tabBar.hidden = NO;
+}
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    [self.nextBtn AddLayer:10];
+    [self.nextBtn setTitle:NSLocalizedString(@"配置完成", nil) forState:UIControlStateNormal];
+    self.view.backgroundColor = [UIColor whiteColor];
+     self.title =  [DeviceInfoManager sharedManager].TheAddDevieceName;
+    self.navigationItem.leftBarButtonItem = [self setNavLeftRightFrame:self.navigationController imageName:@"Path2" selector:@"leftBtn"];
+    self.MidL.text = NSLocalizedString(@"设备添加成功", nil);
+    self.navigationItem.leftBarButtonItem.target =self;
+    self.navigationItem.leftBarButtonItem.style = UIBarButtonItemStylePlain;
+    NSString *pid =[BLDeviceService sharedDeviceService].selectDevice.pid;
+    NSString * SDKUIpath = [[BLLet sharedLet].controller queryUIPath:pid];
+   
+    if ([[NSFileManager defaultManager] fileExistsAtPath:SDKUIpath]) {
+      
+        NSString *sql = [NSString stringWithFormat:@"select * from UIVERSION_TABLE Where PID ='%@'",pid];
+        NSArray * sdsVersionArr = [SDSsqlite queryversion:sql];//查询数据库中版本号数据
+        NSString * SDKUIVersion=nil;
+        NSArray* UIversionArr = [[BLLet sharedLet].controller queryUIVersion:pid].versions;
+        for (BLResourceVersion * version in UIversionArr) {
+            SDKUIVersion = version.version;    //获取SDK的最新版本
+        }
+        if (sdsVersionArr) {
+            sdsUIVersion* version = sdsVersionArr.firstObject;
+            NSString * ver = version.version; //数据库中版本号
+            
+            if ([SDKUIVersion isEqualToString:ver]) {   //如果文件存在同时版本号是最新的 就打印下面语句
+                NSLog(@"%@的UI文件包已经存在了,版本是最新",SDKUIpath);
+            }else{//如果查询到当前版本 与 SDK的版本不相同，就下载最新的，SDK会覆盖掉本地的老版本UI包 同时 更新数据库 PID对应的UI包版本
+                dispatch_async(dispatch_get_global_queue(0, 0), ^{
+                    
+                    [[BLLet sharedLet].controller downloadUI:pid completionHandler:^(BLDownloadResult * _Nonnull result) {
+                        BOOL isUnzip = [SSZipArchive unzipFileAtPath:result.savePath toDestination:SDKUIpath];
+                        if (isUnzip) {
+                            NSLog(@"解压成功");
+                            NSString *updateSql = [NSString stringWithFormat:@"update UIVERSION_TABLE set Version = '%@' where PID = '%@'",SDKUIVersion,pid];
+                            BOOL ret = [SDSsqlite updateSdsUIVersion:updateSql];
+                            if (ret) {
+                                NSLog(@"更新版本号成功");
+                            }else{
+                                NSLog(@"更新版本号失败");
+                                
+                            }
+                            
+                        }else{
+                            NSLog(@"解压失败");
+                        }
+                        NSLog(@"我是配网成功后下载更新UI包的！%@",result.savePath);
+                    }];
+                });
+            }
+        }
+    }else{
+        dispatch_async(dispatch_get_global_queue(0, 0), ^{
+            [[BLLet sharedLet].controller downloadUI:pid completionHandler:^(BLDownloadResult * _Nonnull result) {
+                [DeviceInfoManager sharedManager].PID = nil;
+                BOOL isUnzip = [SSZipArchive unzipFileAtPath:result.savePath toDestination:SDKUIpath];
+                if (isUnzip) {
+                    NSLog(@"解压成功");
+                    NSString * SDKUIVersion=nil;
+                    NSArray* UIversionArr = [[BLLet sharedLet].controller queryUIVersion:pid].versions;
+                    for (BLResourceVersion * version in UIversionArr) {
+                        SDKUIVersion = version.version;
+                    }
+                    sdsUIVersion * versionModel = [sdsUIVersion sdsUIVersiontWith:SDKUIVersion pid:pid];
+                    BOOL isInsert = [SDSsqlite addSdsUIVersion:versionModel];
+                    if (isInsert) {
+                        NSLog(@"插入成功");
+                    } else {
+                        NSLog(@"插入失败");
+                    }
+                }else{
+                    NSLog(@"解压失败");
+                }
+                NSLog(@"我是在配网成功后下载UI包的！%@",result.savePath);
+            }];
+        });
+    }
+}
+-(void)leftBtn{
+    [super leftBtn ];
+    [[LiangBaDevice sharedInstance].XINGHAOArr removeAllObjects];
+    if ([self isKindOfClass:[RightViewController class]]) {
+        [self.navigationController popViewControllerAnimated:YES];
+    }else{
+        for (UIViewController *controller in self.navigationController.viewControllers) {
+            if ([controller isKindOfClass:[RightViewController class]]) {
+                RightViewController *A =(RightViewController *)controller;
+                [self.navigationController popToViewController:A animated:YES];
+            }
+        }
+    }
+}
+- (IBAction)devuceSucess:(id)sender {
+    [[LiangBaDevice sharedInstance].XINGHAOArr removeAllObjects];
+    if ([self isKindOfClass:[DeviceViewController class]]) {
+        [self.navigationController popViewControllerAnimated:YES];
+    }else{
+        for (UIViewController *controller in self.navigationController.viewControllers) {
+            if ([controller isKindOfClass:[DeviceViewController class]]) {
+                DeviceViewController *A =(DeviceViewController *)controller;
+                [self.navigationController popToViewController:A animated:YES];
+            }
+        }
+    }
+    [[NSNotificationCenter defaultCenter] postNotificationName:@"addDevSUC" object:nil];
+}
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+/*
+#pragma mark - Navigation
+
+// In a storyboard-based application, you will often want to do a little preparation before navigation
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    // Get the new view controller using [segue destinationViewController].
+    // Pass the selected object to the new view controller.
+}
+*/
+
+@end

@@ -1,0 +1,169 @@
+10
+
+dir
+21527
+https://fudongkai@10.10.30.108/svn/broadlink-nj/branches/2.%E6%BA%90%E7%A0%81/10.%E7%8B%AC%E7%AB%8BApp/17.%E6%99%BE%E9%9C%B8/SDS%20%E6%96%B0%E6%99%BE%E9%9C%B8/IOS/%E6%99%BE%E9%9C%B8SDSDemo/Pods/SecurityGuardSDK/SecurityGuardSDK.framework/Headers/Open
+https://fudongkai@10.10.30.108/svn/broadlink-nj
+
+
+
+2018-05-02T07:39:29.827630Z
+21527
+fudongkai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ddb02cf-ecf6-4040-bf01-e1d352dcb530
+
+OpenUMID
+dir
+
+OpenStaticDataStore
+dir
+
+OpenNoCaptcha
+dir
+
+OpenInitialize
+dir
+
+OpenOpenSDK
+dir
+
+OpenStaticKeyEncrypt
+dir
+
+OpenSecurityGuardParamContext.h
+file
+
+
+
+
+2018-05-02T07:39:44.000000Z
+2ccc2cc7df79980f9b9d84cde5bb7418
+2018-05-02T07:39:29.827630Z
+21527
+fudongkai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1154
+
+IOpenSecurityGuardPlugin.h
+file
+
+
+
+
+2018-05-02T07:39:44.000000Z
+f3bd2f1053de71ad742c043aec5fc7ff
+2018-05-02T07:39:29.827630Z
+21527
+fudongkai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1442
+
+OpenSimulatorDetect
+dir
+
+OpenSecureSignature
+dir
+
+OpenAtlasEncrypt
+dir
+
+OpenSecurityGuardManager.h
+file
+
+
+
+
+2018-05-02T07:39:44.000000Z
+02d7944beaa7e52199424660981562de
+2018-05-02T07:39:29.827630Z
+21527
+fudongkai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5635
+
+OpenDynamicDataEncrypt
+dir
+
+OpenDataCollection
+dir
+
+OpenStaticDataEncrypt
+dir
+
+OpenDynamicDataStore
+dir
+
